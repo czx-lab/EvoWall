@@ -6,7 +6,7 @@
 
 最新版本 **v2.1.1-beta+20286**
 
-⤵️ 点击下载最新版本：[下载](http://source.aiweimeng.top/app/evooldesk-2.0.1-beta-setup.exe)
+⤵️ 点击下载最新版本：[下载](http://source.aiweimeng.top/app/evooldesk-2.1.1-beta-setup.exe)
 
 ---
 
