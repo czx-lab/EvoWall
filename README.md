@@ -15,13 +15,20 @@
 
 ---
 
-最新版本 **v2.1.1-beta+20286**
+最新版本 **v2.1.2-beta+20287**
 
-⤵️ 点击下载最新版本：[下载](http://source.aiweimeng.top/app/evooldesk-2.1.1-beta-setup.exe)
+⤵️ 点击下载最新版本：[下载](http://source.aiweimeng.top/app/evooldesk-2.1.2-beta-setup.exe)
 
 ---
 
 ### evooldesk 软件版本更新说明
+
+#### v2.1.1-beta+20287
+
+- ✨️ 优化开机自启动，主界面显示问题
+- ✨️ 修复壁纸列表，下拉不显示图片
+- ✨️ 修复登录推出后，数据不同步
+- ✨️ 修复已知其他 bug
 
 #### v2.1.1-beta+20286
 
