@@ -15,13 +15,20 @@
 
 ---
 
-最新版本 **v2.1.2-beta+20287**
+最新版本 **v2.1.3-beta+20288**
 
-⤵️ 点击下载最新版本：[下载](http://source.aiweimeng.top/app/evooldesk-2.1.2-beta-setup.exe)
+⤵️ 点击下载最新版本：[下载](http://source.aiweimeng.top/app/evooldesk-2.1.3-beta-setup.exe)
 
 ---
 
 ### evooldesk 软件版本更新说明
+
+#### v2.1.3-beta+20288
+
+- ✨️ 修改锁屏设置弹窗问题
+- ✨️ 修复锁屏设置数据不同步问题
+- ✨️ 优化动态请求管理员权限
+- ✨️ 修复已知其他 bug
 
 #### v2.1.2-beta+20287
 
